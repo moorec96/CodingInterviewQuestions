@@ -60,9 +60,3 @@ class StackOfPlates
 		}
 	}
 }
-
-main()
-{
-
-	return 0;
-}
